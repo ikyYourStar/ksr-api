@@ -14,5 +14,21 @@
         "id": "2",
         "rate": "10",
         "harga": "26"
+    },
+    {
+        "nama": "Lihua",
+        "ibb": "https://raw.githubusercontent.com/ikyYourStar/ksr-api/refs/heads/main/ksr-image/B4%20%5B7B1917C%5D.png",
+        "bint": "⭐⭐⭐",
+        "id": "100",
+        "rate": "40",
+        "harga": "20"
+    },
+    {
+        "nama": "Gyokuyou",
+        "ibb": "https://raw.githubusercontent.com/ikyYourStar/ksr-api/refs/heads/main/ksr-image/B4%20%5B7B1917C%5D.png",
+        "bint": "⭐⭐⭐⭐",
+        "id": "3",
+        "rate": "10",
+        "harga": "26"
     }
 ]
