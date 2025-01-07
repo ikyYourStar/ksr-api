@@ -1,8 +1,17 @@
 [
   {
         "nama": "Maomao",
-        "ibb": "https://example.com/image1.png",
+        "ibb": "https://raw.githubusercontent.com/ikyYourStar/ksr-api/refs/heads/main/ksr-image/Proyek%20Baru%20%5B326D6AC%5D.png",
         "bint": "⭐⭐⭐⭐",
+        "id": "1",
+        "rate": "10",
+        "harga": "26"
+    },
+    {
+        "nama": "Jinshi",
+        "ibb": "https://raw.githubusercontent.com/ikyYourStar/ksr-api/refs/heads/main/ksr-image/Proyek%20Baru%20%5B326D6AC%5D.png",
+        "bint": "⭐⭐⭐⭐",
+        "id": "2",
         "rate": "10",
         "harga": "26"
     }
