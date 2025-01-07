@@ -1,1 +1,9 @@
-
+[
+  {
+        "nama": "Maomao",
+        "ibb": "https://example.com/image1.png",
+        "bint": "⭐⭐⭐⭐",
+        "rate": "10",
+        "harga": "26"
+    }
+]
