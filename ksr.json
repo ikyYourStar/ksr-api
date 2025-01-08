@@ -30,5 +30,29 @@
         "id": "3",
         "rate": "10",
         "harga": "26"
+    },
+    {
+        "nama": "Lishu",
+        "ibb": "",
+        "bint": "⭐⭐⭐",
+        "id": "102",
+        "rate": "40",
+        "harga": "20"
+    },
+    {
+        "nama": "Pairin",
+        "ibb": "",
+        "bint": "⭐⭐⭐",
+        "id": "101",
+        "rate": "40",
+        "harga": "20"
+    },
+    {
+        "nama": "Ah duo",
+        "ibb": "",
+        "bint": "⭐⭐",
+        "id": "200",
+        "rate": "60",
+        "harga": "14"
     }
 ]
